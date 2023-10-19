@@ -6,6 +6,11 @@
 
 AudioX is a mobile application developed by GDSC Mobile FUOYE Devs for the purpose of enhancing the learning experience through audio content. This Flutter-based application is designed to follow the MVC (Model-View-Controller) architecture, ensuring clean and maintainable code. AudioX utilizes various packages and technologies to provide a seamless audio learning experience. It also integrates with the Back4App API for managing audio content.
 
+## Screenshots
+
+![Screenshot 1](Home.png)
+![Screenshot 2](NowPlaying.png)
+![Screenshot 3](NowPlaying--Lyrics.png)
 ## Features
 
 - **Audio Player**: Play audio content with ease.
